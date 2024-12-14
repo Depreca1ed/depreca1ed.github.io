@@ -1,5 +1,16 @@
-.NameBox{
+.NameBox {
   text-shadow: 1px;
+  color: #FFFFFF;
   margin: auto;
-  background-color: #AAAAAA;
+  background-color: #00000075;
+  background: auto;
+  padding-bottom: 1px;
+  border-radius: 45px;
+  border-bottom: 2px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-style: solid;
+}
+
+body {
+  background-image: url(assets/image.png);
 }
